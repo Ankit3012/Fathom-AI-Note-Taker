@@ -44,7 +44,7 @@ A production-ready Python voice agent using **LiveKit**, **Deepgram**, and **Ope
 ## 📥 Installation
 
 ---bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone <url>
 cd your-repo-name
 
 # Setup virtual environment

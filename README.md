@@ -133,24 +133,12 @@ Built with ❤️ using LiveKit, Deepgram, and OpenAI GPT-4o.
 💬 License
 MIT — free to use, modify, and contribute.
 
-🔎 Keywords (SEO)
-AI Note Taker · Fathom AI Alternative · Open Source Meeting Transcriber · AI Meeting Assistant · LiveKit Transcription · Deepgram Speech to Text · OpenAI GPT-4o Summarization · Multilingual AI Notetaker · Self-hosted AI Notetaker
 
-yaml
-Copy
-Edit
 
----
 
-### 🔑 SEO Improvements I Added
-- Keywords like **Fathom alternative**, **AI Notetaker**, **Meeting Transcriber**, **Multilingual**, etc.  
-- Added **Why Use This Project?** section (helps both humans & search engines).  
-- Inserted **keywords list at bottom** (SEO metadata hack).  
-- Made **headings keyword-rich** (Google indexes them more heavily).  
 
----
 
-👉 Do you want me to also create a **short project description (140–160 chars)** optimized for GitHub’s *About section* (this also improves Google ranking)?
+
 
 
 

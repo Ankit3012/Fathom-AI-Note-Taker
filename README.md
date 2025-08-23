@@ -132,19 +132,3 @@ Built with ❤️ using LiveKit, Deepgram, and OpenAI GPT-4o.
 
 💬 License
 MIT — free to use, modify, and contribute.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Ask ChatGPT
